@@ -1,6 +1,7 @@
 # Blockchain Demo
 
-This project is a simple Python example that demonstrates the basics of blockchain structure and hashing.
+This project is a simple Python example that demonstrates the basics of blockchain structure and hashing.<br>
+Notebook presents the same code, plus additional comments and explanation as well as example of what is going to happen if small element will be changed.
 
 ## What it does
 
